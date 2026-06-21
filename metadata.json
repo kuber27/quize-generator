@@ -1,0 +1,6 @@
+{
+  "name": "AI Flashcard & Study Guide Generator",
+  "description": "Upload educational PDFs or note images to auto-generate 3D card-flipping flashcards, interactive quizzes, and a document-specific chatbot powered by smart RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
